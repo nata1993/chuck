@@ -11,3 +11,7 @@ C:\Users\opilane\source\repos\Chuck\Chuck\bin\Debug\netcoreapp3.1\Newtonsoft.Jso
 C:\Users\opilane\source\repos\Chuck\Chuck\obj\Debug\netcoreapp3.1\Chuck.csproj.CopyComplete
 C:\Users\opilane\source\repos\Chuck\Chuck\obj\Debug\netcoreapp3.1\Chuck.dll
 C:\Users\opilane\source\repos\Chuck\Chuck\obj\Debug\netcoreapp3.1\Chuck.pdb
+C:\Users\opilane\source\repos\Chuck\Chuck\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\opilane\source\repos\Chuck\Chuck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\opilane\source\repos\Chuck\Chuck\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\opilane\source\repos\Chuck\Chuck\bin\Debug\netcoreapp3.1\Nancy.dll
